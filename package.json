@@ -1,0 +1,19 @@
+{
+  "name": "ist-v5",
+  "version": "1.0.0",
+  "description": "\"\"\u001b[DVezba 5 IST - NRt-188/15\"",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuxCode/IST-V5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuxCode/IST-V5/issues"
+  },
+  "homepage": "https://github.com/JuxCode/IST-V5#readme"
+}

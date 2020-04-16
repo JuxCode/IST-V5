@@ -1,0 +1,11 @@
+{
+  "name": "knjigefunc",
+  "version": "1.0.0",
+  "description": "\"\"\u001b[DFunkcije za rad sa knjigama\"",
+  "main": "knjigeFunc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
